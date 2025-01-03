@@ -1,6 +1,6 @@
 # About me
 
-![id picture](/sarahkaarina.github.io/docs/assets/IMG_0856.JPG)
+![id picture](docs/assets/IMG_0856.JPG)
 
 I am currently a post-doctoral researcher working with [Michael Lombardo](https://www.iit.it/people-details/-/people/michael-lombardo) at the **Laboratory for Autism and Neuroodevelopmental Disorders** in Rovereto, Italy. My PhD was completed at the University of Cambridge, under the supervision of [Jenny Gibson](https://www.educ.cam.ac.uk/people/staff/gibson/) and [Napoleon Katsos](https://www.mmll.cam.ac.uk/nk248), where I worked on the relationship between multilingualism and autistic traits. 
 
