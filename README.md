@@ -19,6 +19,9 @@ One of the first projects (2014-2015) I was ever involved was a study investigat
 ## Research timeline
 
 ```mermaid
+config:
+  look: handDrawn
+  theme: neutral
 graph TD;
     A[2012
       Undergraduate in Linguistics & Phonetics
@@ -35,7 +38,7 @@ graph TD;
           University of Cambridge];
     D-->E[2022 - present
           Post-doctoral researcher at the Laboratory of Neurodevelopmental Disorders
-          Isituto Italiano di Tecnologia];
+          Istituto Italiano di Tecnologia];
 ```
 
 **Google scholar profile**: [Sarah Kaarina Crockford](https://scholar.google.com/citations?user=tghPmTwAAAAJ&hl=it&oi=sra)
