@@ -14,11 +14,9 @@ The driving focus of my work is to ensure that research can be as inclusive as p
 
 ## Community involved research
 
-One of the first projects (2014-2015) I was ever involved in the development of, was a study investigating the experience of motherhood for autistic women. We were approached by our co-author and autism advocate, Monique, who highlighted the current lack of formal research into motherhood and autism for autistic women. The initial idea was for the project was to simply runa survey, however, we were faced with the daunting task of having no previous published literature on the autsitic experience of motherhood. This led me on a quest to find a formal method for including the voices of autistic women that was research/publication suitable, where I identified uses of Community Based Participatory Research (CBPR) and Patient and Public Involvement (PPI) models in sociological and medical research. Along my co-author, Dr. Pohl, my main contribution to the work was aiding in the development of a formal PPI model of research in order to engage the autistic community throughout our research process (Pohl et al., 2020).  
+One of the first projects (2014-2015) I was ever involved was a study investigating the experience of motherhood for autistic women. We were approached by our co-author and autism advocate, Monique Blakemore, who highlighted the current lack of formal research into motherhood and autism for autistic women. The initial idea for the project was to simply run a survey, however, in designing our suvrey questions we were faced with the daunting task of having no previously published literature on the autistic experience of motherhood. This led me on a quest to find a formal method for including the input of autistic women in our study design, which is how I identified uses of Community Based Participatory Research (CBPR) and Patient and Public Involvement (PPI) models in sociological and medical research. Along with my co-author, Dr. Alexa Pohl, my main contribution, therefore, to the work was aiding in the development of a formal PPI model of research in order to engage the autistic community throughout our research process (Pohl et al., 2020).  
 
-[Pohl, A. L., Crockford, S. K., Blakemore, M., Allison, C., & Baron-Cohen, S. (2020). A comparative study of autistic and non-autistic women’s experience of motherhood. Molecular autism, 11, 1-12.](https://link.springer.com/article/10.1186/s13229-019-0304-2)
-
-# Research timeline
+## Research timeline
 
 ```mermaid
 graph TD;
@@ -27,3 +25,5 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
+**Google scholar profile**: [Sarah Kaarina Crockford](https://scholar.google.com/citations?user=tghPmTwAAAAJ&hl=it&oi=sra)
