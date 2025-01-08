@@ -20,7 +20,7 @@ One of the first projects (2014-2015) I was ever involved was a study investigat
 
 ```mermaid
 graph TD;
-    A[2012 - Undergraduate in Linguistics & Phonetics, University of Leeds]--> |2014 - 2015 Research Intern at the Autism Research Center, University of Cambridge| B[2016, Graduated & Research Assistant at the Centre for Research In Autism and Education, UCL];
+    A[2012, Undergraduate in Linguistics & Phonetics, University of Leeds]--> |2014 - 2015 Research Intern at the Autism Research Center, University of Cambridge| B[2016, Graduated & Research Assistant at the Centre for Research In Autism and Education, UCL];
     B-->C[2016 - 2017, Master's in Educational Neuroscience, UCL & Birkbeck College London];
     C-->D[2017 - 2022, PhD in Theoretical and Applied Linguistics, University of Cambridge];
     D-->E[2022 - present, Post-doctoral researcher at the Laboratory of Neurodevelopmental Disorders, Isituto Italiano di Tecnologia];
