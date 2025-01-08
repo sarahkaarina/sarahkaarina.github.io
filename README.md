@@ -19,25 +19,22 @@ One of the first projects (2014-2015) I was ever involved was a study investigat
 ## Research timeline
 
 ```mermaid
-config:
-  look: handDrawn
-  theme: neutral
 graph TD;
     A[2012
-      Undergraduate in Linguistics & Phonetics
+      **Undergraduate in Linguistics & Phonetics**
       University of Leeds]--> |2014 - 2015
-                               Research Intern at the Autism Research Center
+                               **Research Intern at the Autism Research Center**
                                University of Cambridge| B[2016
                                                           Graduated from Leeds
-                                                          Research Assistant at the Centre for Research In Autism and Education, UCL];
+                                                          **Research Assistant at the Centre for Research In Autism and Education**, UCL];
     B-->C[2016 - 2017
-          Master's in Educational Neuroscience
+          **Master's in Educational Neuroscience**
           UCL & Birkbeck College London];
     C-->D[2017 - 2022
-          PhD in Theoretical and Applied Linguistics
+          **PhD in Theoretical and Applied Linguistics**
           University of Cambridge];
     D-->E[2022 - present
-          Post-doctoral researcher at the Laboratory of Neurodevelopmental Disorders
+          **Post-doctoral researcher at the Laboratory of Neurodevelopmental Disorders**
           Istituto Italiano di Tecnologia];
 ```
 
